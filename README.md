@@ -14,12 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### profile
-https://profile-summary-for-github.com/user/szjxxy
-
 ### Follow Me
 - [个人网站](http://fe.teachclass.cn/)
 - [知乎](http://fe.teachclass.cn/)
 - [掘金](http://fe.teachclass.cn/)
 - [微信公众号 -【乘风破浪大前端】](http://fe.teachclass.cn/)
-……
