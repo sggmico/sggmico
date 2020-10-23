@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 今日面试题 「 2020.10.23 」
+### hi，请听题！ - 2020.10.23 -  👇
+
+**标签**：`编程题` 、`头条`
 
 ```html
 1. 写一个 mySetInterval(fn, a, b),每次间隔 a,a+b,a+2b,...,a+nb 的时间，然后写一个 myClear，停止上面的 mySetInterval
