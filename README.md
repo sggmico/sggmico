@@ -30,7 +30,7 @@ Here are some ideas to get you started:
  👉   **[今日题板](https://github.com/szjxxy/fe-happy-interview/issues/1)**
 
 🚀    **[更多](https://github.com/szjxxy/fe-happy-interview/issues)**
-### Follow Me 🔅🔆
+### Follow Me 🕸
 
 - [个人网站](http://fe.teachclass.cn/)
 - [知乎](http://fe.teachclass.cn/)
