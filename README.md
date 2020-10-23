@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 今日面试真题
+
+> 写一个 mySetInterval(fn, a, b),每次间隔 a,a+b,a+2b,...,a+nb 的时间，然后写一个 myClear，停止上面的 mySetInterval
+
 ### Follow Me
 - [个人网站](http://fe.teachclass.cn/)
 - [知乎](http://fe.teachclass.cn/)
