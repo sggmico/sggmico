@@ -18,21 +18,19 @@ Here are some ideas to get you started:
 
 ```html
 1. 写一个 mySetInterval(fn, a, b),每次间隔 a,a+b,a+2b,...,a+nb 的时间，然后写一个 myClear，停止上面的 mySetInterval
-```
 
-**考察点**
-
+考察点
 1. 作用域
 2. 引用类型
 3. 定时器
 4. 递归
-5. 编程feel
+5. code feelstyle
 
+```
 
+ 👉   **[今日题板](https://github.com/szjxxy/fe-happy-interview/issues/1)**
 
- 👉   **[今日题解 - 答题板]()**
-
-🚀    **[往期面试题]()**
+🚀    **[更多](https://github.com/szjxxy/fe-happy-interview/issues)**
 
 ### Follow Me 🔅🔆
 
