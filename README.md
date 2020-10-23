@@ -1,4 +1,3 @@
-### Hi there 👋
 <!--
 **szjxxy/szjxxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 「2020.10.23 」- 今日面试题 `推荐`
+### 今日面试题 「 2020.10.23 」
 
 ```html
 1. 写一个 mySetInterval(fn, a, b),每次间隔 a,a+b,a+2b,...,a+nb 的时间，然后写一个 myClear，停止上面的 mySetInterval
@@ -29,7 +28,7 @@ Here are some ideas to get you started:
 ```
  👉   **[今日题板](https://github.com/szjxxy/fe-happy-interview/issues/1)**
 
-🚀    **[更多](https://github.com/szjxxy/fe-happy-interview/issues)**
+🚀    **[往期更多](https://github.com/szjxxy/fe-happy-interview/issues)**
 ### Follow Me 🕸
 
 - [个人网站](http://fe.teachclass.cn/)
