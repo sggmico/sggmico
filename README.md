@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 今日面试 - 大厂真题
+### [2020.10.23] - 今日面试题 `推荐`
 
-> 写一个 mySetInterval(fn, a, b),每次间隔 a,a+b,a+2b,...,a+nb 的时间，然后写一个 myClear，停止上面的 mySetInterval
+```html
+1. 写一个 mySetInterval(fn, a, b),每次间隔 a,a+b,a+2b,...,a+nb 的时间，然后写一个 myClear，停止上面的 mySetInterval
+```
 
 **考察点**
 
@@ -26,9 +28,14 @@ Here are some ideas to get you started:
 4. 递归
 5. 编程feel
 
- 👉  **[题解]()**
 
-### Follow Me
+
+ 👉   **[今日题解 - 答题板]()**
+
+🚀    **[往期面试题]()**
+
+### Follow Me 🔅🔆
+
 - [个人网站](http://fe.teachclass.cn/)
 - [知乎](http://fe.teachclass.cn/)
 - [掘金](http://fe.teachclass.cn/)
