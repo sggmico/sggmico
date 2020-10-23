@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 2. 引用类型
 3. 定时器
 4. 递归
-5. code feelstyle
+5. code style
 
 ```
  👉   **[今日题板](https://github.com/szjxxy/fe-happy-interview/issues/1)**
