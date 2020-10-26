@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### hi，请听题！ - 2020.10.23 -  👇
+### hi，请听题！ - 2020.10.26 -  👇
 
 **标签**：`编程题`
 
@@ -27,21 +27,6 @@ Here are some ideas to get you started:
     4. ES10的更新
     5. code style
 ```
-
-<<<<<<< HEAD
-
-=======
-考察点
-1. 作用域
-2. 引用类型
-3. 定时器
-4. 递归
-5. code style
-
-```
- 👉   **[当日题板](https://github.com/szjxxy/fe-happy-interview/issues/1)**
->>>>>>> ee0c533d821a8cc277bc8829bfbd554f8de6fd78
-
  👉   **[题板](https://github.com/szjxxy/fe-happy-interview/issues/2)**
 
 🚀    **[更多](https://github.com/szjxxy/fe-happy-interview/issues)**
