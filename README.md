@@ -15,22 +15,24 @@ Here are some ideas to get you started:
 
 ### hi，请听题！ - 2020.10.23 -  👇
 
-**标签**：`编程题` 、`头条`
+**标签**：`编程题`
+
+1、`2 ** 53 + 1` 结果是？为什么？正解如何计算?
 
 ```html
-1. 写一个 mySetInterval(fn, a, b),每次间隔 a,a+b,a+2b,...,a+nb 的时间，然后写一个 myClear，停止上面的 mySetInterval
-
-考察点
-1. 作用域
-2. 引用类型
-3. 定时器
-4. 递归
-5. code feelstyle
-
+考察点：
+    1. js大数计算精度问题
+    2. 字符串操作
+    3. 解法的多样性
+    4. ES10的更新
+    5. code style
 ```
- 👉   **[今日题板](https://github.com/szjxxy/fe-happy-interview/issues/1)**
 
-🚀    **[往期更多](https://github.com/szjxxy/fe-happy-interview/issues)**
+
+
+ 👉   **[题板](https://github.com/szjxxy/fe-happy-interview/issues/2)**
+
+🚀    **[更多](https://github.com/szjxxy/fe-happy-interview/issues)**
 ### Follow Me 🕸
 
 - [个人网站](http://fe.teachclass.cn/)
