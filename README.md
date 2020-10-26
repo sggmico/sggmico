@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 5. code style
 
 ```
- 👉   **[今日题板](https://github.com/szjxxy/fe-happy-interview/issues/1)**
+ 👉   **[当日题板](https://github.com/szjxxy/fe-happy-interview/issues/1)**
 
 🚀    **[往期更多](https://github.com/szjxxy/fe-happy-interview/issues)**
 ### Follow Me 🕸
