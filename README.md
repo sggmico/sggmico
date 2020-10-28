@@ -27,6 +27,52 @@ Here are some ideas to get you started:
     4. ES10的更新
     5. code style
 ```
+题解
+```js
+// 解法一：使用字符串，控制进位
+function bigNumberSum(x, y) {
+    x = +x
+    y = +y 
+    if([x, y].filter(num => Number.isSafeInteger(num)).length === 2) {
+        return x + y 
+    }
+
+    x = '' + x 
+    y = '' + y 
+    var xLen = x.length,
+        yLen = y.length,
+        carried = 0,
+        res = []
+
+    if(xLen - yLen > 0) {
+        y = y.padStart(xLen, '0')
+    } else {
+        x = x.padStart(yLen, '0')        
+    }
+
+    for(var i = x.length - 1; i > -1; i--) {
+       var sum = +x[i] + +y[i] + carried
+        if(sum > 9) {
+            carried = 1
+        } else {
+            carried = 0
+        }
+        res.unshift( sum % 10 )
+    }
+    if(carried === 1) res.unshift(1)
+    return res.join('')
+}
+
+// 解法二：使用 ES10新增 BigInt 数据类型。 缺点：兼容性不足
+function bigNumberSum(x, y) {
+    let sum = BigInt(x) + BigInt(y)
+    return sum.toString()
+}
+
+// 解法三：使用第三方库。
+    bignumber.js : https://github.com/MikeMcl/bignumber.js/
+```
+
  👉   **[题板](https://github.com/szjxxy/fe-happy-interview/issues/2)**
 
 🚀    **[更多](https://github.com/szjxxy/fe-happy-interview/issues)**
