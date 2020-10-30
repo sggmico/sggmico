@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### hi，请听题！ - 2020.10.28 -  👇
+### hi，请听题！ 👇
 
 **标签**：`编程题`
 
