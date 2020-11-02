@@ -17,17 +17,9 @@ Here are some ideas to get you started:
 
 **标签**：`编程题`
 
-1、手写 `bind`
+1、手写 节流 和 防抖 函数
 
-```html
-考察点：
-    1. 对bind的了解
-    2. 解法的多样性
-    3. ES6的了解
-    4. code style
-```
-
- 👉   **[题板](https://github.com/szjxxy/fe-happy-interview/issues/4)**
+ 👉   **[题板](https://github.com/szjxxy/fe-happy-interview/issues/5)**
 
 🚀    **[更多](https://github.com/szjxxy/fe-happy-interview/issues)**
 ### Follow Me 🕸
