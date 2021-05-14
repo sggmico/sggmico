@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="right" alt="GIF" src="https://github.com/sggmico/sggmico/blob/master/imgs/code-gif.gif" width="430" height="100%" />
+
 > Hi，这里是爱分享的 `sggmico`，「乘风破浪大前端」公众号作者，交个朋友🤝。
 
 ### 技术栈 🧰
@@ -22,7 +24,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/vue.png"></code>
 <code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/git.png"></code>
 
-<img align="right" alt="GIF" src="https://github.com/sggmico/sggmico/blob/master/imgs/code-gif.gif" width="430" height="100%" />
+
 
 ### 爆款文章🔥
 
@@ -49,9 +51,11 @@ Here are some ideas to get you started:
 - [我的掘金](https://juejin.cn/user/1679709495366471/posts)
 - 微信公众号 ：「乘风破浪大前端」👇
 
+<img align="right" alt="GIF" src="https://github.com/sggmico/sggmico/blob/master/imgs/code-gif.gif" width="430" height="100%" />
+
 <img align="left" alt="GIF" src="https://tva1.sinaimg.cn/large/008i3skNgy1gqfhs9sj53j30bo0bowf7.jpg" width="430" height="100%" />
 
-<img align="right" alt="GIF" src="https://github.com/sggmico/sggmico/blob/master/imgs/code-gif.gif" width="430" height="100%" />
+
 
 感谢一直关注和支持的粉丝朋友，一起加油鸭~
 
