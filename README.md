@@ -19,10 +19,22 @@ Here are some ideas to get you started:
 
 ### 技术栈 🧰
 
-<code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/javascript.png"></code>
-<code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/typescript.png"></code>
+
 <code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/vue.png"></code>
+
+<code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/javascript.png"></code>
+
+<code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/typescript.png"></code>
+
+<code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/nodejs.jpg"></code>
+
+<code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/css3.jpg"></code>
+
+<code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/webpack.jpg"></code>
+
 <code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/git.png"></code>
+
+<code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/vscode.jpg"></code>
 
 ### 开源项目🚀
 
@@ -42,7 +54,7 @@ Here are some ideas to get you started:
 10. [【手写实现】：throttle（节流）、 debounce（防抖）函数及应用](https://github.com/sggmico/fe-happy-interview/issues/5)
 11. [【CSS专题】：带你彻底搞懂BFC及其应用](https://github.com/sggmico/fe-happy-interview/issues/14)
 
-### 交流
+### 交流  :）
 
 - [个人网站](http://www.teachclass.cn/)
 - [我的知乎](https://www.zhihu.com/people/szjxxy/posts)
