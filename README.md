@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/vue.png"></code>
 <code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/javascript.png"></code>
 <code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/typescript.png"></code>
-<code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/node1js.jpg"></code>
+<code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/nodejs1.jpg"></code>
 <code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/webpack.jpg"></code>
 <code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/git.png"></code>
 <code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/vscode.jpg"></code>
