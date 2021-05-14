@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ![](https://tva1.sinaimg.cn/large/008i3skNgy1gqfhs9sj53j30bo0bowf7.jpg)
 
-感谢一直关注和支持的粉丝朋友，一起加油鸭~
+感谢一直关注和支持的粉丝朋友，一起[加油鸭](https://music.163.com/#/song?id=1378869403&market=baiduqk)~
 
 
 
