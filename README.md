@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://github.com/sggmico/sggmico/blob/master/imgs/code-gif.gif" width="430" height="100%" />
 
+
+
 > Hi，这里是爱分享的 `sggmico`，「乘风破浪大前端」公众号作者。🤝
 
 ### 技术栈 🧰
@@ -31,7 +33,7 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sggmico&repo=fe-happy-interview)](https://github.com/sggmico/fe-happy-interview)
 
-### 爆款文章🔥
+### 文章沉淀🔥
 
 1. [【Vue2.0源码系列】：响应式原理](https://github.com/sggmico/fe-happy-interview/issues/11)
 2. [【Vue2.0源码系列】：虚拟DOM](https://github.com/sggmico/fe-happy-interview/issues/12)
