@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://github.com/sggmico/sggmico/blob/master/imgs/code-gif.gif" width="430" height="100%" />
 
-> Hi，这里是爱分享的 `sggmico`，「乘风破浪大前端」公众号作者，交个朋友🤝。
+> Hi，这里是爱分享的 `sggmico`，「乘风破浪大前端」公众号作者。🤝
 
 ### 技术栈 🧰
 
 <code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/vue.png"></code>
-<code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/javascript.png"></code><code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/typescript.png"></code><code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/nodejs.jpg"></code>
-<code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/css3.jpg"></code>
+<code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/javascript.png"></code>
+<code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/typescript.png"></code>
+<code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/node1js.jpg"></code>
 <code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/webpack.jpg"></code>
 <code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/git.png"></code>
 <code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/vscode.jpg"></code>
@@ -46,7 +47,6 @@ Here are some ideas to get you started:
 
 ### 交流  :）
 
-- [个人网站](http://www.teachclass.cn/)
 - [我的知乎](https://www.zhihu.com/people/szjxxy/posts)
 - [我的掘金](https://juejin.cn/user/1679709495366471/posts)
 - 微信公众号 ：「乘风破浪大前端」👇
