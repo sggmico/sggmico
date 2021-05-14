@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> Hi，我是爱分享的 `sggmico`，「乘风破浪大前端」公众号作者。欢迎来撩~
+> Hi，这里是爱分享的 `sggmico`，「乘风破浪大前端」公众号作者，交个朋友🤝。
 
 ### 技术栈 🧰
 
@@ -47,9 +47,11 @@ Here are some ideas to get you started:
 - [我的掘金](https://juejin.cn/user/1679709495366471/posts)
 - 微信公众号 ：「乘风破浪大前端」👇
 
+<img aling="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
+
 ![](https://tva1.sinaimg.cn/large/008i3skNgy1gqfhs9sj53j30bo0bowf7.jpg)
 
 感谢一直关注和支持的粉丝朋友，一起加油鸭~
 
-<img alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
+
 
