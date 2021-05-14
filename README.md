@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/vue.png"></code>
 <code><img height="20" src="https://github.com/sggmico/sggmico/blob/master/imgs/git.png"></code>
 
+<img align="right" alt="GIF" src="https://github.com/sggmico/sggmico/blob/master/imgs/code-gif.gif" width="430" height="100%" />
+
 ### 爆款文章🔥
 
 1. [【Vue2.0源码系列】：响应式原理](https://github.com/sggmico/fe-happy-interview/issues/11)
@@ -42,16 +44,14 @@ Here are some ideas to get you started:
 
 ### 交流
 
-<img aling="right" alt="GIF" src="https://github.com/sggmico/sggmico/blob/master/imgs/code-gif.gif" width="430" height="100%" />
-
 - [个人网站](http://www.teachclass.cn/)
 - [我的知乎](https://www.zhihu.com/people/szjxxy/posts)
 - [我的掘金](https://juejin.cn/user/1679709495366471/posts)
 - 微信公众号 ：「乘风破浪大前端」👇
 
-<img aling="left" alt="GIF" src="https://tva1.sinaimg.cn/large/008i3skNgy1gqfhs9sj53j30bo0bowf7.jpg" width="430" height="100%" />
+<img align="left" alt="GIF" src="https://tva1.sinaimg.cn/large/008i3skNgy1gqfhs9sj53j30bo0bowf7.jpg" width="430" height="100%" />
 
-
+<img align="right" alt="GIF" src="https://github.com/sggmico/sggmico/blob/master/imgs/code-gif.gif" width="430" height="100%" />
 
 感谢一直关注和支持的粉丝朋友，一起加油鸭~
 
