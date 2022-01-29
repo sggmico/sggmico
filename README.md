@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-> Hi，关注「乘风破浪大前端」公众号，获取更多内容~。🤝
+> Hi，关注「乘风破浪大前端」公众号，获取更多内容~ 🚀
 
 ### 技术栈 🧰
 
