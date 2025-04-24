@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-> Hi，关注「乘风破浪大前端」公众号，获取更多内容~ 🚀
+> Hi，关注「前端黑白灰」公众号，获取更多内容~ 🚀
 
 ### 技术栈 🧰
 
@@ -51,9 +51,7 @@ Here are some ideas to get you started:
 
 - [我的知乎](https://www.zhihu.com/people/szjxxy/posts)
 - [我的掘金](https://juejin.cn/user/1679709495366471/posts)
-- 微信公众号 ：「乘风破浪大前端」👇
-
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gqfhs9sj53j30bo0bowf7.jpg)
+- 微信公众号 ：「前端黑白灰」
 
 感谢一直关注和支持的粉丝朋友，一起[加油鸭](https://music.163.com/#/song?id=1378869403&market=baiduqk)~
 
