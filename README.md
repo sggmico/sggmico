@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a href="https://sggmico.github.io">me</a> .
+    <a href="https://www.nosweetsm.cn">me</a> .
     <a href="https://sggmico.github.io/posts">blog</a> .
     <a href="https://sggmico.github.io/projects">projects</a> .
     <!-- <a href="https://sggmico.github.io/talks">talks</a> .
